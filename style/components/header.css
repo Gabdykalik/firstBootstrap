@@ -1,0 +1,36 @@
+header{
+    background-color: #223248;
+}
+
+header img{
+    height: 20px;
+}
+
+.navbar{
+    padding: 20px 0;
+}
+
+.nav-link.active{
+    color: #106fde !important;
+}
+
+.nav-link{
+    color: #cbcbd5 !important;
+    padding: 8px 16px !important;
+}
+
+.nav-link:hover{
+    color: #106fde !important;
+}
+
+header .btn{
+    padding: 8px 16px;
+    font-size: 11px;
+    letter-spacing: 0.6px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.navbar-toggler{
+    color: #fff !important;
+}

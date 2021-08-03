@@ -1,0 +1,12 @@
+.brand{
+    background-color: #223248;
+}
+
+.brand img{
+    opacity: 0.7;
+    transition: 0.3s;
+}
+
+.brand img:hover{
+    opacity: 1;
+}

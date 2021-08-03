@@ -1,0 +1,27 @@
+.map{
+    background-color: #38475a;
+}
+
+.map img{
+    height: 20px;
+}
+
+.google-map{
+    color:#106fde;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.map i{
+    margin-right: 5px;
+    color: #106fde;
+}
+
+.map-links a{
+    transition: 0.3s !important;
+}
+
+.map-links a:hover{
+    color: #fff !important;
+}

@@ -1,0 +1,22 @@
+.faq{
+    background-image: url("/img/faq-bg.png");
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 100px;
+}
+
+.faq-btn{
+    background-color: #223248;
+    width: 100%;
+    text-align: left;
+    height: 50px;
+    box-shadow: none !important;
+}
+
+.faq .card a{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+

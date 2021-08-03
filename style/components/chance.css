@@ -1,0 +1,17 @@
+.chance h4{
+    font-size: 16px;
+}
+
+.chance i{
+    margin-right: 8px;
+}
+
+@media(max-width:1000px){
+    .chance img{
+        display: none;
+    }
+
+    .chance {
+        padding-bottom: 30px;
+    }
+}

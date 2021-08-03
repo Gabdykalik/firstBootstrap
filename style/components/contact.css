@@ -1,0 +1,15 @@
+.contact{
+    background-color: #223248;
+}
+
+.contact-line{
+    width: 30px;
+    height: 3px;
+    background-color: #106fde;
+}
+
+.contact .btn{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 15px;
+}

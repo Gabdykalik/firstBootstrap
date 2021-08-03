@@ -1,0 +1,33 @@
+.plan{
+    background-color: #223248;
+    background-image: url(/img/plan-bg.png);
+    background-size: cover;
+}
+
+.plan-price{
+    position: absolute;
+    top: 50%;
+    right: 0px;
+    left: 0px;
+    transform: translateY(-50%);
+}
+
+.card-price{
+    box-shadow: 0px 3px 10px rgb(243 246 249 / 12%);
+}
+
+.price-line{
+    width: 40px;
+    height: 2px;
+    background-color: #ffffff;
+}
+
+.plan i{
+    font-size: 12px;
+    margin-right: 8px;
+    color: #106fde !important;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #495057 !important;
+}
